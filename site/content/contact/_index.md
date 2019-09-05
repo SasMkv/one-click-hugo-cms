@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Test4"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
